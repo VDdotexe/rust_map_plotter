@@ -1,0 +1,10 @@
+# Ignore Rust build files
+/target/
+**/*.rlib
+**/*.rmeta
+
+# Ignore other unnecessary files
+*.log
+*.tmp
+
+*.parquet
